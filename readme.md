@@ -10,6 +10,8 @@
 
 ## 📨 SENDY API
 
+## Forked from the original author: <a href="https://github.com/ahmadawais/Sendy-PHP-API">cicerbro/Sendy-PHP-API</a>
+
 With this `Sendy PHP API Wrapper` you can do the following:
 
  **SUBSCRIBERS** | **LISTS** | **CAMPAIGNS**
