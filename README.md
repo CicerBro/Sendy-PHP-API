@@ -12,6 +12,9 @@
 
 ## Forked from the original author: <a href="https://github.com/ahmadawais/Sendy-PHP-API">ahmadawais/Sendy-PHP-API</a>
 
+> [!WARNING]
+> This package is deprecated. Existing integrations should continue to work, but this repository is no longer actively maintained and will not receive future updates.
+
 With this `Sendy PHP API Wrapper` you can do the following:
 
  **SUBSCRIBERS** | **LISTS** | **CAMPAIGNS**
